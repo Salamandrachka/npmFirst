@@ -4,16 +4,25 @@
   "description": "Anastasiia Mostovenko, FE 8 online ",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Salamandrachka/npmFirst.git"
+    "url": "https://github.com/Salamandrachka/npmFirst"
   },
   "author": "Anastasiia",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Salamandrachka/npmFirst/issues"
   },
-  "homepage": "https://github.com/Salamandrachka/npmFirst#readme"
+  "homepage": "https://github.com/Salamandrachka/npmFirst#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "eslint": "^8.28.0",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "moment": "^2.29.4"
+  }
 }
