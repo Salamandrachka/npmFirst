@@ -1,0 +1,19 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Anastasiia Mostovenko, FE 8 online ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salamandrachka/npmFirst.git"
+  },
+  "author": "Anastasiia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salamandrachka/npmFirst/issues"
+  },
+  "homepage": "https://github.com/Salamandrachka/npmFirst#readme"
+}
